@@ -1,7 +1,5 @@
-# Data Analyst
+# All Projects
 
-## Progress
+## Project 01 - Work Experience (Microsoft Excel)
 
-  - Microsoft Excel - Completed
-  - Microsoft Power BI -
-  - SQL - 
+  - Automized my Daily Work by using VBA, chatGPT, .etc and increased my productivity by 75%
