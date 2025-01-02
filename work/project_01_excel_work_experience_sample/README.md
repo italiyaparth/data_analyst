@@ -2,7 +2,7 @@
 
 ## Achievement
 
-  - I have increased my work productivity by 75%.
+  - I have increased my productivity by 75%.
 
 ## My Daily Work
 
