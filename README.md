@@ -1,7 +1,7 @@
 # Data Analyst
 
-- Progress
+## Progress
 
-  Microsoft Excel - Completed
-  Microsoft Power BI -
-  SQL - 
+  - Microsoft Excel - Completed
+  - Microsoft Power BI -
+  - SQL - 
