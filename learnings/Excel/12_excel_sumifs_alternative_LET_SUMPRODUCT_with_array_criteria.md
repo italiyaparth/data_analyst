@@ -37,3 +37,11 @@ bisNOTselect,$AD$80:$AD$81 = B1 | B2
            --( ISNA(MATCH(bisColumn, bisNOTselect, 0)) )
      )
 )
+
+
+
+
+- --( bicColumn <> bicNOTselect) => --( NOT( bicColumn = bicNOTselect) ) 
+
+
+- use MAP for P&L => MAP(sales, cost, LAMBDA(a, b, a/b-1)) 
